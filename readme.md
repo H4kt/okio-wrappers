@@ -1,4 +1,4 @@
-# Okio wrapper
+# Okio wrappers
 A better way to access filesystem using [Okio](https://github.com/square/okio)
 
 ## File class
